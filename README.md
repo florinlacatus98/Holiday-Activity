@@ -6,7 +6,7 @@ Repository was created by [Working Copy](https://workingcopy.app/?ct=holiday) to
 
 Clone the repository and open it in your editor:
 
-```
+```bash
 git clone https://github.com/florinlacatus98/Holiday-Activity.git
 cd Holiday-Activity
 ```
